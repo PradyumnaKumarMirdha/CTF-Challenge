@@ -36,7 +36,9 @@ dnsrecon -d vulnbegin.co.uk -D /wordlists/subdomain.txt -type brt
 
 ### curl
 
+```bash
 curl *.vulnbegin.co -H "Cookie: $cookie"
+```
 _____________
 
 # Step 4 :
