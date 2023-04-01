@@ -1,6 +1,6 @@
 
 >[!warning]
-> CTFChallenge will ban you if you use aggresive bruteforce or scanning.
+> CTFChallenge will ban you if you use aggresive bruteforce or scanning Techniques.
 # Step 1 : 
 ## Check Code
 
